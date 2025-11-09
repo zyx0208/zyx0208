@@ -23,4 +23,4 @@
 
 ##
 **<div align=center>이 외 자세한 내용은 포트폴리오를 참고해주세요!</div>**
-**<div align=center>\<==^오^==>/</div>**
+**<div align=center>\\<==^오^==>/</div>**
