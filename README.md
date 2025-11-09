@@ -1,16 +1,23 @@
-## Hi there 👋
+## _플레이어가 겪는 "경험"을 중요시 생각하는 게임 클라이언트 개발자를 꿈꾸고 있습니다!_
 
-<!--
-**zyx0208/zyx0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 주로 RPG 게임을 즐겨하며, 이 안에서 새로운 콘텐츠를 체험해보거나 직접 만들어 보는 걸 좋아합니다. 게임에서 즐길 수 있는 다양한 “경험”은 게임을 단적으로 표현하지 않고 오랫동안 기억에 남도록 하는 중요한 요소라고 생각합니다. 이를 위해, 게임 제작을 할 때 쾌적하고 다양한 유저 경험을 위해 여러 고민을 해보고 직접 구현해보는 것을 좋아합니다.
 
-Here are some ideas to get you started:
+## Contact
+- Phone : 010-7123-4350
+- E-Mail : zyx0208@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## EDUCATION
+- 2020.02 | 영훈고등학교 졸업
+- 2026.02 | 상명대학교 게임전공 졸업
+
+## SKILLS
+- **C** - 자료구조와 알고리즘 구현 및 함수화 가능
+- **C++** - 자료구조와 알고리즘 함수를 통한 문제 해결 및 응용 가능
+- **C#** - 기본적인 코드 작성 및 해석, 유니티 엔진 개발을 위한 사용 가능
+- **Unity** - 캐릭터 움직임이나 상호작용과 같은 기본적인 시스템 구현 가능, 게임 시스템 플로우 구현 가능
+- **Unreal Engine** - 캐릭터 움직임이나 상호작용과 같은 기본적인 시스템 구현 가능, 게임 시스템 플로우 구현 가능, 애니메이션 클래스를 통한 애니메이션 적용 가능
+
+기본적인 Word, PowerPoint, Excel 작업 및 Adobe Premiere Pro를 통한 간단한 영상 작업도 가능합니다.
+
+
+**이 외 자세한 내용은 포트폴리오를 참고해주세요!**
